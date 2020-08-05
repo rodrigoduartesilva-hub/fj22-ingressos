@@ -1,1 +1,3 @@
-Descrição do arquivo
+Projeto de copmpra de ingresso
+
+Desenvolvido por Rodrigo
